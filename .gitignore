@@ -1,10 +1,11 @@
 .DS_Store
 node_modules
 /dist
+/agency-admin
 
 # local env files
-.env.local
-.env.*.local
+#.env.local
+#.env.*.local
 
 # Log files
 npm-debug.log*
